@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<faturamento>
+    <estado>
+        <sigla>SP</sigla>
+        <valor>67836.43</valor>
+    </estado>
+    <estado>
+        <sigla>RJ</sigla>
+        <valor>36678.66</valor>
+    </estado>
+    <estado>
+        <sigla>MG</sigla>
+        <valor>29229.88</valor>
+    </estado>
+    <estado>
+        <sigla>ES</sigla>
+        <valor>27165.48</valor>
+    </estado>
+    <estado>
+        <sigla>Outros</sigla>
+        <valor>19849.53</valor>
+    </estado>
+</faturamento>
